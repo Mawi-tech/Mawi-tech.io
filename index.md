@@ -1,5 +1,4 @@
 # CS-499 Computer Science Capstone
-
 ---
 
 ## Professional Self-Assessment
