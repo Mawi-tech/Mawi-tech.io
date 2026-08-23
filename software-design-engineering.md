@@ -1,4 +1,3 @@
-
 [Back to portfolio home](index.html)
 
 # Artifact One: Software Design and Engineering
