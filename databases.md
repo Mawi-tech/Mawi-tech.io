@@ -1,8 +1,3 @@
----
-layout: default
-title: Databases
----
-
 [Back to portfolio home](index.html)
 
 # Artifact Three: Databases
