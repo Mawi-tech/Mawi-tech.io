@@ -1,8 +1,9 @@
-# CS-499 Computer Science Capstone
----
-
+CS-499 Computer Science Capstone | Bachelor of Science in Computer Science
+ 
+***
+ 
 ## Professional Self-Assessment
-
+ 
 Southern New Hampshire University's Computer Science program has helped
 strengthen technical skills such as database management, programming in
 different languages, testing, debugging, and system design, and the list can go
@@ -16,7 +17,7 @@ skill I have worked on is being able to break down technical concepts and
 explain them to a non-technical audience. This is useful especially when
 communicating with stakeholders while presenting projects like Travlr Getaways,
 an application for users to book vacations.
-
+ 
 The three artifacts fit everything together like a digital puzzle. Enhancement
 One improves the structure and maintainability of an OpenGL renderer and adds
 visual complexity without hindering performance. It is a 3D scene of an office
@@ -28,56 +29,57 @@ Enhancement Three adds an authentication and authorization layer to a
 MongoDB-backed dashboard. Together these showcase the full pipeline: what the
 user sees, what the system decides and how it performs, and what must be
 protected and secured.
-
----
-
+ 
+***
+ 
 ## Code Review
-
+ 
 Before beginning enhancements, I recorded a code review walking through the
 existing functionality of each artifact, analyzing areas for improvement, and
 presenting my enhancement plan.
-
-**[Watch the code review video](REPLACE_WITH_YOUTUBE_URL)**
----
-
+ 
+**[Watch the code review video](https://www.youtube.com/watch?v=55_fjmhEEVY)**
+ 
+***
+ 
 ## Artifacts
-
+ 
 Each artifact below includes the original version, the enhanced version, and a
 narrative explaining the enhancement and the course outcomes it addresses.
-
+ 
 ### [1. Software Design and Engineering](software-design-engineering.html)
 **3D Scene Renderer** | C++ and OpenGL | Originally built in CS-330:
 Computational Graphics and Visualization
-
+ 
 An OpenGL application rendering a personal office workspace using the Phong
 lighting model with four light sources, image-based textures, and reusable
 meshes. The enhancement expanded the scene's complexity while holding memory
 and load time flat through deliberate mesh and texture reuse.
-
+ 
 ### [2. Algorithms and Data Structures](algorithms-data-structures.html)
 **Course Advising Program** | C++ | Originally built in CS-300: DSA Analysis
 and Design
-
+ 
 A console application for the ABCU computer science department that loads a
 course catalog, prints it in alphanumeric order, and looks up individual
 courses with their prerequisites. The enhancement converted the underlying
 binary search tree into a self-balancing AVL tree, cutting tree height from 8
 to 4 on the production catalog.
-
+ 
 ### [3. Databases](databases.html)
 **CRUD Dashboard** | Python, Dash, MongoDB | Originally built in CS-340:
 Client/Server Development
-
+ 
 A dashboard for filtering and sorting records stored in MongoDB. The original
 had no authentication and no role assignment. The enhancement introduced a REST
 API layer with JWT authentication and role-based access control.
-
----
-
+ 
+***
+ 
 ## Course Outcomes
-
+ 
 This portfolio demonstrates the following CS-499 course outcomes:
-
+ 
 1. Employ strategies for building collaborative environments that enable
    diverse audiences to support organizational decision making in the field of
    computer science
@@ -94,9 +96,8 @@ This portfolio demonstrates the following CS-499 course outcomes:
 5. Develop a security mindset that anticipates adversarial exploits in software
    architecture and designs to expose potential vulnerabilities, mitigate
    design flaws, and ensure privacy and enhanced security of data and resources
-
----
-
+***
+ 
 ## Contact
-
+ 
 [GitHub](https://github.com/Mawi-tech)
