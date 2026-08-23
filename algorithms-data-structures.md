@@ -1,8 +1,3 @@
----
-layout: default
-title: Algorithms and Data Structures
----
-
 [Back to portfolio home](index.html)
 
 # Artifact Two: Algorithms and Data Structures
