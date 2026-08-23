@@ -8,11 +8,11 @@
 | | |
 |---|---|
 | **Original artifact** | [View original code](https://github.com/Mawi-tech/CS300) |
-| **Enhanced artifact** | [View enhanced code](REPLACE_WITH_ENHANCED_LINK) |
+| **Enhanced artifact** | [View enhanced code](https://github.com/Mawi-tech/CS300/tree/main/Enhanced) |
 | **Category** | Algorithms and Data Structures |
 | **Course outcomes addressed** | Outcome 3, Outcome 4 |
 
----
+***
 
 ## Describing the Artifact
 
@@ -93,6 +93,6 @@ implemented rotation-based self-balancing directly rather than importing a
 library container, which demonstrates that I understand the mechanism and not
 just the interface.
 
----
+***
 
 [Previous: Software Design and Engineering](software-design-engineering.html) | [Back to portfolio home](index.html) | [Next: Databases](databases.html)
