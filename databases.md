@@ -7,12 +7,12 @@
 
 | | |
 |---|---|
-| **Original artifact** | [View original code](REPLACE_WITH_ORIGINAL_LINK) |
-| **Enhanced artifact** | [View enhanced code](REPLACE_WITH_ENHANCED_LINK) |
+| **Original artifact** | [View original code](https://github.com/Mawi-tech/CS340) |
+| **Enhanced artifact** | [View enhanced code](https://github.com/Mawi-tech/CS340/tree/main/CS340%20Project%202%20(2)/CS340%20Project%202) |
 | **Category** | Databases |
 | **Course outcomes addressed** | Outcome 4, Outcome 5 |
 
----
+***
 
 ## Describing the Artifact
 
@@ -79,6 +79,6 @@ exploits.** By implementing the token authentication system, hashing stored
 credentials, and restricting privileged operations by role, I closed the gap
 that would have allowed an unauthenticated actor to read or destroy data.
 
----
+***
 
 [Previous: Algorithms and Data Structures](algorithms-data-structures.html) | [Back to portfolio home](index.html)
