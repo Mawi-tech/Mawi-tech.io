@@ -1,11 +1,11 @@
 ---
-layout: default
 title: Marshon Hughes | Computer Science ePortfolio
 ---
 
 # Computer Science ePortfolio
 
 Bachelor of Science in Computer Science, Southern New Hampshire University
+
 CS-499 Computer Science Capstone
 
 ---
@@ -47,10 +47,6 @@ existing functionality of each artifact, analyzing areas for improvement, and
 presenting my enhancement plan.
 
 **[Watch the code review video](REPLACE_WITH_YOUTUBE_URL)**
-
-> **TODO:** replace the link above with your video URL. Set the video to
-> **Unlisted**, not Private, or reviewers will not be able to open it.
-
 ---
 
 ## Artifacts
