@@ -1,9 +1,5 @@
----
 Marshon Hughes | Computer Science ePortfolio
 ---
-
-# Computer Science ePortfolio
-
 Bachelor of Science in Computer Science, Southern New Hampshire University
 
 CS-499 Computer Science Capstone
