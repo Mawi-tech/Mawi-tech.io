@@ -1,5 +1,5 @@
 ---
-title: Marshon Hughes | Computer Science ePortfolio
+Marshon Hughes | Computer Science ePortfolio
 ---
 
 # Computer Science ePortfolio
