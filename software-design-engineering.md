@@ -8,11 +8,11 @@
 | | |
 |---|---|
 | **Original artifact** | [View original code](https://github.com/Mawi-tech/CS330) |
-| **Enhanced artifact** | [View enhanced code](REPLACE_WITH_ENHANCED_LINK) |
+| **Enhanced artifact** | [View enhanced code](https://github.com/Mawi-tech/CS330/tree/main/enhanced) |
 | **Category** | Software Design and Engineering |
 | **Course outcomes addressed** | Outcome 3, Outcome 4 |
 
----
+***
 
 ## Describing the Artifact
 
@@ -90,6 +90,6 @@ rendered 3D scene of my office.
 constants so the implementation reads more consistently and every value is
 explainable.
 
----
+***
 
 [Back to portfolio home](index.html) | [Next: Algorithms and Data Structures](algorithms-data-structures.html)
