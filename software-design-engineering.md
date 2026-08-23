@@ -1,7 +1,3 @@
----
-layout: default
-title: Software Design and Engineering
----
 
 [Back to portfolio home](index.html)
 
