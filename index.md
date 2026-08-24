@@ -1,4 +1,4 @@
-# Professional Self-Assessment
+## Professional Self-Assessment
 
 Southern New Hampshire University's Computer Science program strengthened
 technical skills including database management, programming across several
@@ -94,3 +94,73 @@ specific weakness in existing code, and defend the change I made.
 
 ***
 
+## Code Review
+
+Before beginning enhancements, I recorded a code review walking through the
+existing functionality of each artifact, analyzing areas for improvement, and
+presenting my enhancement plan.
+
+**[Watch the code review video](https://www.youtube.com/watch?v=55_fjmhEEVY)**
+
+***
+
+## Artifacts
+
+Each artifact below includes the original version, the enhanced version, and a
+narrative explaining the enhancement and the course outcomes it addresses.
+
+### [1. Software Design and Engineering](software-design-engineering.html)
+**3D Scene Renderer** | C++ and OpenGL | Originally built in CS-330:
+Computational Graphics and Visualization
+
+An OpenGL application rendering a personal office workspace using the Phong
+lighting model with four light sources, image-based textures, and reusable
+meshes. The enhancement expanded the scene's complexity while holding memory
+and load time flat through deliberate mesh and texture reuse.
+
+### [2. Algorithms and Data Structures](algorithms-data-structures.html)
+**Course Advising Program** | C++ | Originally built in CS-300: DSA Analysis
+and Design
+
+A console application for the ABCU computer science department that loads a
+course catalog, prints it in alphanumeric order, and looks up individual
+courses with their prerequisites. The enhancement converted the underlying
+binary search tree into a self-balancing AVL tree, cutting tree height from 8
+to 4 on the production catalog.
+
+### [3. Databases](databases.html)
+**CRUD Dashboard** | Python, Dash, MongoDB | Originally built in CS-340:
+Client/Server Development
+
+A dashboard for filtering and sorting records stored in MongoDB. The original
+had no authentication and no role assignment. The enhancement introduced a REST
+API layer with JWT authentication and role-based access control.
+
+***
+
+## Course Outcomes
+
+This portfolio demonstrates the following CS-499 course outcomes:
+
+1. Employ strategies for building collaborative environments that enable
+   diverse audiences to support organizational decision making in the field of
+   computer science
+2. Design, develop, and deliver professional-quality oral, written, and visual
+   communications that are coherent, technically sound, and appropriately
+   adapted to specific audiences and contexts
+3. Design and evaluate computing solutions that solve a given problem using
+   algorithmic principles and computer science practices and standards
+   appropriate to its solution, while managing the trade-offs involved in
+   design choices
+4. Demonstrate an ability to use well-founded and innovative techniques,
+   skills, and tools in computing practices for the purpose of implementing
+   computer solutions that deliver value and accomplish industry-specific goals
+5. Develop a security mindset that anticipates adversarial exploits in software
+   architecture and designs to expose potential vulnerabilities, mitigate
+   design flaws, and ensure privacy and enhanced security of data and resources
+
+***
+
+## Contact
+
+[GitHub](https://github.com/Mawi-tech)
